@@ -1,3 +1,5 @@
+|BUILD SUCCESSFULLY|
+
 [![Build Status](https://dev.azure.com/rahultipole/Attachparatkelay/_apis/build/status/RaHuZzZ369.pipelines-python-django?branchName=master)](https://dev.azure.com/rahultipole/Attachparatkelay/_build/latest?definitionId=9&branchName=master)
 # Sample Python app for Azure Pipelines docs
 
